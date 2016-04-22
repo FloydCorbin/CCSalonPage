@@ -10,8 +10,11 @@
 
 
 ### Things to do -
-- Create home file and upload (S)
-- Create all the other pages (F)
-- Play around with the google API (s)
-- Construct the appointment services (F)
-- Connect services to server (F)
+Floyd
+- Look at previous page html to decioher what does what
+- Read A-Z Quora thing
+
+Seth
+- look at google calendar api
+- look into reminder emailing through api
+- create template page
