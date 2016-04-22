@@ -13,6 +13,7 @@
 Floyd
 - Look at previous page html to decioher what does what
 - Read A-Z Quora thing
+- Talk to your mom about content and photos and stuff
 
 Seth
 - look at google calendar api
