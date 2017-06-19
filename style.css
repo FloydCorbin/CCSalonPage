@@ -1,0 +1,56 @@
+html{
+}
+
+body{
+	background-color: #EFFF8C;
+}
+
+.navbar-default{
+	background-color: rgba(209,140,250,50);
+	height: 100px;
+
+}
+.navbar-collapse{
+	
+}
+.navbar{
+	background-color: rgb(89,52,115);
+	position: fixed;
+	top: 5px;
+	width: 100%;
+	z-index: 30;
+}
+.navbar-brand{
+	padding: 10px;
+	background: rgb(89,52,115);
+	
+
+	
+}
+article{
+	margin-top: 50px;
+	width: 900px;
+	margin: auto;
+	background-color: rgba(209,140,250,75)
+}
+img{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+*{
+	Box-sizing: border-box;
+}
+
+.jumbotron{
+	background-color: #A3B23E;
+}
+
+.navbar-nav>li>a{
+	font-size: 55px;
+	font-family: 'Glegoo', serif;
+	margin-top: auto;
+	color: rgba(209,140,250);
+	padding-top: 30px;
+}
